@@ -35,10 +35,8 @@ c2bc778a-1cb9-46c6-b435-0489649d2a42 FAIL
 
 
 1. 10\3
-2. Issues:
-[1](https://github.com/BulygaDenis/javaHW1.1/issues/1)
-[2](https://github.com/BulygaDenis/javaHW1.1/issues/2)
-[3](https://github.com/BulygaDenis/javaHW1.1/issues/3)
+2. [Issues](https://github.com/BulygaDenis/javaHW1.1/issues)
+
 
 
 ## Окружение:
